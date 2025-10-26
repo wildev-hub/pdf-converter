@@ -1,0 +1,17 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Build and dist folders
+build/
+dist/
+
+# PyInstaller spec file
+*.spec
+
+# Virtual environments
+venv/
+env/
+
+# Log files
+*.log
