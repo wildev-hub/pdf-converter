@@ -2,7 +2,7 @@
 dist/*
 
 # Except the final exe
-!dist/PDFCombiner.exe
+!dist/PDFConverter.exe
 
 # Python cache files
 __pycache__/
