@@ -1,9 +1,3 @@
-# Ignore everything inside dist/
-dist/*
-
-# Except the final exe
-!dist/PDFConverter.exe
-
 # Python cache files
 __pycache__/
 *.pyc
