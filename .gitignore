@@ -2,9 +2,8 @@
 __pycache__/
 *.pyc
 
-# Build and dist folders
+# Build folders
 build/
-dist/
 
 # PyInstaller spec file
 *.spec
